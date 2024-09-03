@@ -9,7 +9,7 @@ O repositório conta com um notebook, onde realizamos uma análise exploratória
 
 ## Estrutura do Repositório
 - "analise_voos": Notebook com as análises propostas.
-- "" Slide de apresentação com a conclusão das análsies
+- "Analise de voos" Slide de apresentação com a conclusão das análsies.
 
 ## Integrantes
 - Nome: Grasiely Lima Pastori Vieira		RA: 1700737
