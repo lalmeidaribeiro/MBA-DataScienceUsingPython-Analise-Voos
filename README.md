@@ -1,4 +1,4 @@
-<h2 align="center">Projeto 02 - Análise Exploratória do Dataset de Voos</h2>
+<h2 align="center">Projeto 02 - Análise Exploratória do Dataset de Voos :airplane:</h2>
 
 <p>Este repositório contém um projeto voltado para a disciplina de Data Science using Python da Faculdade Impacta. 
 O repositório conta com um notebook, onde realizamos uma análise exploratória do dataset de voos para responder às seguintes perguntas:</p>
